@@ -5,6 +5,7 @@
   **Caracteristicas**
     
   **Requisitos**
+   
     Correo con ingenieria social.
     Editor de codigo para poder abrir y modificar los archivos que sean necesarios cambiar.
     Sistema de gestion de base de datos.
