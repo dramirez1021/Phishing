@@ -19,11 +19,17 @@
  ## Instrucciones de uso 
 
   1.Para poder utilizar esta herramienta debes descargar la carpeta y los archivos que se encuentran en Phishing.
+  
   2.Deberas tener instalado un servidor local como por ejemplo (Xampp o Mysql) Si ya cuentas con uno deberás iniciar sus servicios.
+  
   3.Si tienes instalado Xampp la carpeta Phishing la debes colocar en htdocs.
+  
   4.Debes modificar el archivo conexion.php poniendo tu usuario, contraseña y base de datos (en caso de que tengas datos diferentes) . 
+  
   5.Crea una base de datos llamada curso que contenga una tabla llamada usuario con los campos email y password. 
+ 
   6.Una vez que ya tienes listo tu entorno deberás redactar y enviar un correo electronico con el link que direccione a tu pagina web.
+ 
   7.Podras ver como los datos se iran insertando en tu base de datos.
   
  
