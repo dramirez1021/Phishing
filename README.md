@@ -10,10 +10,13 @@
    Se enviara un correo a la victima el cual como sugerencia podria tener la siguente estructura:
    
    Asunto: Liverpool te regala %50 de Descuento en tus compras en línea en toda la tienda.
+   
    Cuerpo:
    Entra a la tienda en línea y aprovecha las ofertas que Liverpool tiene para ti...!!!! 
    anjea tu código de Descuento en la tienda en línea : XE45RYTJNS.
-   Ingresa a la tienda en línea no te pierdas la oportunidad !!!!! Ingresar ahora (aquí puedes introducir el link como vinculo al texto)
+   
+   Ingresa a la tienda en línea no te pierdas la oportunidad !!!!! Ingresar ahora (aquí puedes introducir el link como          vinculo al texto)
+   
    Cupón válido del 26 de agosto hasta agotar existencias.
  
  ## Instrucciones de uso 
